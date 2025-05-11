@@ -62,6 +62,10 @@ Have questions, suggestions, or found something unclear? Open an issue or reach 
 ---
 
 Happy coding! 👨‍💻👩‍💻  
-– ADEKE MSONTER SAMUEL_
+## 👤 Author
+
+**Name:** Adeke Msonter Samuel  
+**GitHub:** [github.com/adekemsontersamuel](https://github.com/adekemsontersamuel)  
+**Organization:** Alpha Code Institute 
 
 
